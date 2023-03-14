@@ -1,5 +1,6 @@
 name: multi_repo_test
 packages:
   - multirepo/**
+  - multirepo/**/**
   - second_app/**
-  
+  - second_app/**/**
